@@ -8,5 +8,4 @@ If you want to clone and run it,
 
 ```
 git clone git@github.com:gvnc/camunda-starter.git
-git checkout -f Start
 ```
